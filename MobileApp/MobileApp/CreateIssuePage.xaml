@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="MobileApp.CreateIssuePage"
+             Title="Create Issue">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Issue Name"></Label>
+            <Entry></Entry>
+            <Label Text="Issue Number"></Label>
+            <Entry></Entry>
+            <Label Text="Description"></Label>
+            <Editor></Editor>
+            <Label Text="Priority" ></Label>
+            <Entry></Entry>
+            <Label Text="Upload Screenshot" ></Label>
+            <Entry></Entry>
+            <Label Text="Author Name"></Label>
+            <Entry></Entry>
+            <Label Text="Date/Time of Creation Name"></Label>
+            <Entry></Entry>
+            <Label Text="Assigned Developer"></Label>
+            <Entry></Entry>
+            <Label Text="Status"></Label>
+            <Entry></Entry>
+        <StackLayout Orientation="Horizontal">
+            <Button Text="Save Issue"></Button>
+            <Button Text="Cancel"></Button>
+        </StackLayout> 
+            </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

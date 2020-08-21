@@ -1,0 +1,340 @@
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.exe
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.deps.json
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.runtimeconfig.json
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.runtimeconfig.dev.json
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.pdb
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.Views.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.Views.pdb
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.csprojAssemblyReference.cache
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.RazorAssemblyInfo.cache
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.RazorAssemblyInfo.cs
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.AssemblyInfoInputs.cache
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.AssemblyInfo.cs
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.TagHelpers.input.cache
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.TagHelpers.output.cache
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.RazorCoreGenerate.cache
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.RazorTargetAssemblyInfo.cache
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.RazorTargetAssemblyInfo.cs
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.Views.pdb
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\staticwebassets\Web_Application_Issue_Tracker.StaticWebAssets.Manifest.cache
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\staticwebassets\Web_Application_Issue_Tracker.StaticWebAssets.xml
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.pdb
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.genruntimeconfig.cache
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.csproj.CopyComplete
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Index.cshtml.g.cs
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.csproj.CoreCompileInputs.cache
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Issues\Create.cshtml.g.cs
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Issues\Delete.cshtml.g.cs
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Issues\Details.cshtml.g.cs
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Issues\Edit.cshtml.g.cs
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Issues\Index.cshtml.g.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.csprojAssemblyReference.cache
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.RazorAssemblyInfo.cache
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.RazorAssemblyInfo.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.AssemblyInfoInputs.cache
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.AssemblyInfo.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.TagHelpers.input.cache
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.TagHelpers.output.cache
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.RazorCoreGenerate.cache
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.pdb
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.exe
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.deps.json
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.runtimeconfig.json
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.runtimeconfig.dev.json
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.pdb
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.Views.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.Views.pdb
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Issues\Create.cshtml.g.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Issues\Delete.cshtml.g.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Issues\Details.cshtml.g.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Issues\Edit.cshtml.g.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Issues\Index.cshtml.g.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Index.cshtml.g.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.RazorTargetAssemblyInfo.cache
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.RazorTargetAssemblyInfo.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.Views.pdb
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.csproj.CopyComplete
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\staticwebassets\Web_Application_Issue_Tracker.StaticWebAssets.Manifest.cache
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\staticwebassets\Web_Application_Issue_Tracker.StaticWebAssets.xml
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\obj\Debug\netcoreapp3.1\Web_Application_Issue_Tracker.genruntimeconfig.cache
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\Web_Application_Issue_Tracker\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll

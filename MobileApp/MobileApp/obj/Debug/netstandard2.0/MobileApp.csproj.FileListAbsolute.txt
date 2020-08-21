@@ -1,0 +1,37 @@
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.deps.json
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\bin\Debug\netstandard2.0\ref\MobileApp.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.pdb
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.AssemblyInfoInputs.cache
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.AssemblyInfo.cs
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\ref\MobileApp.dll
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.pdb
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.csprojAssemblyReference.cache
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\IssueEntryPage.xaml.g.cs
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileAppPage.xaml.g.cs
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.csproj.CoreCompileInputs.cache
+C:\Users\jab904\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.deps.json
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\bin\Debug\netstandard2.0\ref\MobileApp.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.pdb
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.csprojAssemblyReference.cache
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\IssueEntryPage.xaml.g.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileAppPage.xaml.g.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.AssemblyInfoInputs.cache
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.AssemblyInfo.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\ref\MobileApp.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.pdb
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\CreateAccountPage.xaml.g.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\CreateIssuePage.xaml.g.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\ListIssuesPage.xaml.g.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\ViewAccountPage.xaml.g.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\ViewIssuePage.xaml.g.cs
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\MobileApp\MobileApp\obj\Debug\netstandard2.0\ViewUserAccounts.xaml.g.cs

@@ -1,0 +1,6 @@
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\DataIssueTracker\bin\Debug\DataIssueTracker.dacpac
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\DataIssueTracker\bin\Debug\DataIssueTracker.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\DataIssueTracker\bin\Debug\DataIssueTracker.pdb
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\DataIssueTracker\obj\Debug\DataIssueTracker.sqlprojAssemblyReference.cache
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\DataIssueTracker\obj\Debug\DataIssueTracker.dll
+C:\Users\Joshua Barnett\Dropbox\Documents\Senior_Project\Issue_Tracker\DataIssueTracker\obj\Debug\DataIssueTracker.pdb
